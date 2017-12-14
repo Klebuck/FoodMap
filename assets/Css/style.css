@@ -1,0 +1,57 @@
+*{
+	margin:0 auto;
+}
+
+body{
+	background-color: #424242;
+
+}
+
+h2{ /*SPLASH*/
+
+	background-color: #424242;
+	font-family: 'Montserrat', sans-serif;
+	color: #FF8000;
+	font-size: 85px;
+	text-align: center;
+}
+
+#titulo{ /*Primer titulo de la pagina*/
+
+	font-family: 'Montserrat', sans-serif;
+	color: #FF8000;
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+#subtitulo{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: #FF8000;
+}
+
+select{ /*Menu desplegable*/
+
+	width: 200px;
+	height: 25px;
+	color: #FF8000;
+	border-color: #FF8000;
+}
+
+img { /*Imagenes del menu*/
+
+  	width: 150px;
+  	height: 150px;
+ 	margin: 10px 10px;
+
+}
+
+p{ /*Titulos de las fotos*/
+	font-family: 'Montserrat', sans-serif;
+	color: #FFF;
+	font-size: 20px;
+	margin-top: 15px;
+
+}
+
